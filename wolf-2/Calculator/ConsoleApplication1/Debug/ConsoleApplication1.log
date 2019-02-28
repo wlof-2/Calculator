@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+e:\level_three\software_engineering\calculator\wolf-2\calculator\consoleapplication1\consoleapplication1.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+Debug\ConsoleApplication1.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\pch.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  ConsoleApplication1.vcxproj -> E:\Level_Three\Software_Engineering\Calculator\wolf-2\Calculator\Debug\ConsoleApplication1.exe
